@@ -1,0 +1,3 @@
+Processes: 8, Threads: 0, Execution Time: 0.113909 seconds
+Processes: 8, Threads: 0, Execution Time: 0.094031 seconds
+Processes: 1, Threads: 0, Execution Time: 0.352046 seconds
